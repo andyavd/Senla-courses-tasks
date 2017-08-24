@@ -1,1 +1,1 @@
-# Senla-courses-tasks
+Test tasks for Java courses by Senla
